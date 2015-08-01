@@ -6,7 +6,7 @@
 
 ![Screenshot2][img2] &nbsp;&nbsp; ![Screenshot3][img3]
 
-> More screenshots available at [CocoaControls](https://www.cocoacontrols.com/controls/jsqmessagesviewcontroller)
+> Customized it to support delegates from JSQMessagesViewController. More screenshots available at [CocoaControls](https://www.cocoacontrols.com/controls/jsqmessagesviewcontroller)
 
 ## Features
 

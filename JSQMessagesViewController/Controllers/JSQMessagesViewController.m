@@ -693,6 +693,7 @@ static void * kJSQMessagesKeyValueObservingContext = &kJSQMessagesKeyValueObserv
     }
 
     [textView becomeFirstResponder];
+    [self.delegate textViewDidBeginEditing:textView];
 
     if (self.automaticallyScrollsToMostRecentMessage) {
         [self scrollToBottomAnimated:YES];
